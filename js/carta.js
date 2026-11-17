@@ -1,4 +1,3 @@
-/* ===== Carta: carga de data.json y filtro por categoría ===== */
 
 /* Ajustes: cambia estos números y la carta se adapta sola */
 const URL_DATOS = "data.json";
